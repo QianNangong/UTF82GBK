@@ -1,3 +1,8 @@
+/*
+ * UTF-8 to GBK Code Point Mapper
+ *
+ * Generated from code
+ */
 #define GBK_CHAR_TYPE_NULL      0
 #define GBK_CHAR_TYPE_SINGLE    1
 #define GBK_CHAR_TYPE_DOUBLE    2
