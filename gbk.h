@@ -24472,6 +24472,7 @@ static const gbk_char_t kGBKCharMap[] = {
     { GBK_CHAR_TYPE_DOUBLE, { .db = { 0xa3, 0xa4 } } },
 };
 
+static
 gbk_char_t gbk_char_from_utf8(unsigned int cp) {
     switch (cp) {
         case 0x0 ... 0x7f:
